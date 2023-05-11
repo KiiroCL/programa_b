@@ -1,2 +1,2 @@
 # programa_b
-Programa en C que, al recibir como datos n cadenas de caracteres, indique cuáles de ellas se encuentran el formato adecuado
+Desarrolla un programa en C que, al recibir como datos n cadenas de caracteres, indique cuáles de ellas se encuentran el formato adecuado (fecha y concepto). El programa pedirá al usuario la fecha que servirá para validar las cadenas introducidas, ya que se compararán, aquellas que sean iguales se indicará con el mensaje Actividad validada y las que no como Actividad no validada. Se enviará a un archivo la secuencia ingresada y el mensaje obtenido.
